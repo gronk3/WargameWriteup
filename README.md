@@ -8,7 +8,7 @@ then run:
 
 ### `npm run`
 
-Also, there are only 3 iykyk ;&#40;
+Also, there are only 3 iykyk ;&#41;
 
 
 I'll keep this here just in case but refer to above.
