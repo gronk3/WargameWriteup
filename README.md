@@ -1,3 +1,18 @@
+# Steps assuming you have npm and Node already installed
+
+After cloning the repository run:
+
+### `npm install`
+
+then run:
+
+### `npm run`
+
+Also, there are only 3 iykyk ;&#40;
+
+
+I'll keep this here just in case but refer to above.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
